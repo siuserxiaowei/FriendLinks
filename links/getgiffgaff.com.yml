@@ -1,0 +1,6 @@
+site:
+  name: "getgiffgaff"
+  url: "https://getgiffgaff.com/"
+  description: "面向中文用户的 giffgaff 英国手机卡购买与教程站（独立第三方）"
+  links: "/links/"
+  friends: []
